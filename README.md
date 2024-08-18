@@ -5,7 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/j.biswas0022%40gmail.com-white?style=social&logo=gmail&logoColor=black&color=white&link=j.biswas0022%40gmail.com)
 
 ---
-Just a student but I'm Web Development and Cyber Security Enthusiast
+Just a student but I'm in Web Development and Cyber Security Enthusiast
 --------------------------------------------------------------------
 
 I love Kali!!
