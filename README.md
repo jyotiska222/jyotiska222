@@ -1,6 +1,6 @@
 <div align="left">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Hello+%3C+coder+%2F+%3E+!;I'm+Jyotiska+Biswas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=96A4B9&width=435&lines=I'm+Jyotiska+Biswas;Hello+%3C+%C9%B9%C7%9Dpo%C9%94+%2F+%3E+!;Hi+%F0%9D%95%AF%F0%9D%96%8A%F0%9D%96%98%F0%9D%96%8E%F0%9D%96%8C%F0%9D%96%93%F0%9D%96%8A%F0%9D%96%97;Welcome+Developer)](https://git.io/typing-svg)
 
 ![Static Badge](https://img.shields.io/badge/j.biswas0022%40gmail.com-white?style=social&logo=gmail&logoColor=black&color=white&link=j.biswas0022%40gmail.com)
 
