@@ -13,7 +13,7 @@
     <a href="mailto:j.biswas0022@gmail.com">
       <img src="https://img.shields.io/badge/Email-j.biswas0022%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&color=0D1117" />
     </a>
-    <a href="https://github.com/jyotiska-biswas">
+    <a href="[https://github.com/jyotiska-biswas](https://github.com/jyotiska222?tab=overview&from=2025-05-01&to=2025-05-02)">
       <img src="https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github&logoColor=white&color=0D1117" />
     </a>
   </p>
